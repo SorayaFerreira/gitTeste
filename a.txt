@@ -1,1 +1,2 @@
 Testando
+Entendento o HEAD, que é sempre o último commit.
